@@ -43,7 +43,7 @@ We believe in collective progress. If you're interested in:
 - Sharing best practices.
 - Joining discussions about the methodology, privacy, security, and related topics.
 
-...we welcome your participation! The only requirement is strict adherence to the established methodology to ensure consistency and trust in the SAPITS name worldwide.
+We welcome your participation! The only requirement is strict adherence to the established methodology to ensure consistency and trust in the SAPITS name worldwide.
 
 💬 **Join our SimpleX Official Group**
 
@@ -91,13 +91,17 @@ Connect with other SAPITS enthusiasts in our SimpleX group to discuss the method
 ### About SAPITS Locations
 
 - **Origin**: Refers to the location established by the SAPITS founder (when available).
-- **Official**: Any location that strictly follows the SAPITS methodology and wishes to be listed in our `SAPITS_places.md` directory.
+- **Official**: Any location that strictly follows the SAPITS methodology and has passed our verification process.
 
 > **Note:** The existence of an Origin location is **not** required for Official locations to operate. Any business that adheres to the SAPITS methodology can become an Official location.
 
+### Find SAPITS Locations
+
+Visit our [SAPITS Places](SAPITS_places.md) directory to find both Origin and Official locations that have been verified to follow our methodology and privacy standards.
+
 ### For Businesses Wishing to Become Official
 
-If you operate a business that follows the SAPITS methodology and would like to be listed as an Official location, please contact us to begin the verification process. Your location will be added to our `SAPITS_places.md` directory, helping users find SAPITS-compliant services.
+If you operate a business that follows the SAPITS methodology and would like to be listed as an Official location, please contact us to begin the verification process. Your location will be added to our directory `SAPITS_places.md`, helping users find SAPITS-compliant services.
 
 ### Service Standards
 
@@ -122,7 +126,7 @@ Your privacy is our priority. While we currently don't have an Origin physical l
 
 ---
 
-SAPITS: Where technology meets privacy.
+💡 **SAPITS**: Donde la tecnología se encuentra con la privacidad.
 
 ---
 

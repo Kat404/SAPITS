@@ -50,7 +50,7 @@ Creemos en el progreso colectivo. Si estás interesado en:
 
 💬 **Únete a nuestro Grupo Oficial de SimpleX**
 
-Conéctate con otros entusiastas de SAPITS en nuestro grupo de SimpleX para discutir sobre la metodología, privacidad, seguridad y temas relacionados. [Únete a nuestro grupo de SimpleX aquí](https://smp14.simplex.im/g#aV2fsJ76J60x1iz2Rv0d37SJMZcW7pBQBdc58l0nU3U)
+Conéctate con otros entusiastas de SAPITS en nuestro grupo de SimpleX para discutir sobre la metodología, privacidad, seguridad y temas relacionados. [Únete a nuestro grupo de SimpleX aquí](https://smp14.simplex.im/g#aV2fsJ76J60x1iz2Rv0d37SJMZcW7pBQBdc58l0nU3U).
 
 ---
 
@@ -94,9 +94,13 @@ Conéctate con otros entusiastas de SAPITS en nuestro grupo de SimpleX para disc
 ### Acerca de las Ubicaciones SAPITS
 
 - **Origin (Origen)**: Se refiere a la ubicación establecida por el fundador de SAPITS (cuando esté disponible).
-- **Oficial**: Cualquier ubicación que siga estrictamente la metodología SAPITS y desee aparecer en nuestro directorio `SAPITS_places.md`.
+- **Oficial**: Cualquier ubicación que siga estrictamente la metodología SAPITS y haya pasado nuestro proceso de verificación.
 
 > **Nota:** La existencia de una ubicación Origin **no** es necesaria para que operen las ubicaciones Oficiales. Cualquier negocio que cumpla con la metodología SAPITS puede convertirse en una ubicación Oficial.
+
+### Encuentra Ubicaciones SAPITS
+
+Visita nuestro directorio [SAPITS Places](SAPITS_places.md) para encontrar tanto ubicaciones Origin como Oficiales que han sido verificadas para seguir nuestra metodología y estándares de privacidad.
 
 ### Para Negocios que Deseen Volverse Oficiales
 

@@ -7,9 +7,11 @@ Your data security is the MOST important aspect of SAPITS, and we want to explai
 
 - **Encrypted Hard Drives**: We use LUKS1/LUKS2 for full disk encryption, ensuring that even if someone gains physical access to the drives, they cannot access the data stored on computers dedicated exclusively to SAPITS.
 
-- **Secure Operating System**: Secureblue is our default operating system, offering an optimal balance between usability for our technicians and maximum possible security for your data.
+- **Secure Operating System**: QubesOS is our default operating system, offering private and secure isolation for each stage of the process, ensuring maximum possible security for your data.
 
 - **Password Model**: [Not Implemented] We are developing a decentralized system for managing hard drive and login passwords, preventing access centralization and reducing risks of corruption or security threats.
+
+- **E2E Encrypted Messaging**: We use cutting-edge technologies to always provide security between SAPITS and its users. SimpleX Chat is one of the most revolutionary messaging apps at the moment, requiring no phone number or email for use, featuring end-to-end encryption (E2E) to protect your conversations, as well as E2E decentralized servers and the possibility to use incognito profiles for your anonymity.
 
 ### 2. Anonymity
 
@@ -69,16 +71,58 @@ Anonymity in SAPITS is not just a technical feature but a fundamental philosophi
   - User experience vs. Security.
   - Censorship resistance.
 
-##### Technical Proposal
-1. **Identifier Generation**:
-   - Cryptographically secure algorithms.
-   - Minimum 256 bits of entropy.
-   - Base58 encoding for easier manual transcription.
+##### 🔐 Technical Proposal
 
-2. **Communication Channels**:
-   - SimpleX as communication base.
-   - No persistent user addresses.
-   - End-to-end encryption by default.
+#### 1️⃣ Main Identification System
+
+**🎫 ID and Base PIN Generation**
+- Each user receives:
+  - A unique and anonymous identifier (ID)
+  - An 8-digit base PIN
+  
+**🏪 Per-Establishment Features**
+- Local generation: Each SAPITS establishment generates its own IDs and PINs
+- Independence: A new ID and PIN required for each SAPITS establishment
+- Guest mode: Catalog browsing without ID/PIN requirement
+
+**🔒 Usage Process**
+1. User receives their ID and PIN at start
+2. No linking to personal information
+3. Valid ID and PIN required for service access
+
+> 📝 **Security Note**: We recommend storing ID and PIN securely:
+> - On physical paper
+> - In a trusted password manager
+
+#### 2️⃣ Temporary PIN System
+
+**🕒 Main Features**
+- Generation: A unique PIN for each session
+- Purpose: Authentication for specific transactions
+- Protection: Does not compromise the base password
+
+**🔗 Linking and Security**
+- Direct association with requested service
+- Secure connection between client ID and service
+- Prevention of fraud and identity theft
+
+**💼 Operational Benefits**
+- Efficiency: Allows technicians to work without user's physical interaction
+- Speed: Streamlines service/product delivery
+- Security: Minimizes time spent at establishment
+
+**🛡️ Protection Measures**
+- Prevention of:
+  - Vulnerabilities
+  - Theft
+  - Terrorist acts
+  - Kidnapping
+  - Other associated risks
+
+> ⚠️ **Important Note**: Temporary PINs:
+> - Have limited duration
+> - Are automatically invalidated after use
+> - Cannot be reused
 
 #### 2.4 Future Roadmap
 
