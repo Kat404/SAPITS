@@ -126,7 +126,7 @@ Your privacy is our priority. While we currently don't have an Origin physical l
 
 ---
 
-💡 **SAPITS**: Donde la tecnología se encuentra con la privacidad.
+💡 **SAPITS**: Where technology meets privacy.
 
 ---
 
