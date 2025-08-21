@@ -4,6 +4,13 @@ All notable changes to the SAPITS project will be documented in this file.
 
 > **Note:** All dates are in `YYYY-MM-DD` format.
 
+## [0.2.2] - 2025-08-20
+
+### Changed
+- Renamed `LICENSE.txt` to `LICENSE` for better GitHub license integration.
+
+---
+
 ## [0.2.1] - 2025-08-19
 
 ### Fixed
