@@ -132,7 +132,7 @@ Your privacy is our priority. While we currently don't have an Origin physical l
 
 ## 📜 License and Principles
 
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. By using, modifying, or distributing the SAPITS methodology, you agree to the terms outlined in the [LICENSE.txt](LICENSE.txt) file.
+This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. By using, modifying, or distributing the SAPITS methodology, you agree to the terms outlined in the [LICENSE](LICENSE) file.
 
 ### SAPITS Principles (Recommended)
 
@@ -146,7 +146,7 @@ While not legally required, we strongly encourage adopters to consider these pri
 
 These principles, while not legally binding under the CC BY-SA 4.0 license, represent our vision for ethical technology practices. We believe following them will help maintain the integrity and purpose of the SAPITS methodology.
 
-For the full license terms, please see the [LICENSE.txt](LICENSE.txt) file.
+For the full license terms, please see the [LICENSE](LICENSE) file.
 
 ---
 

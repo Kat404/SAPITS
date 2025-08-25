@@ -4,6 +4,26 @@ All notable changes to the SAPITS project will be documented in this file.
 
 > **Note:** All dates are in `YYYY-MM-DD` format.
 
+## [0.3.0] - 2025-08-25
+
+### Added
+- Expanded Privacy section in methodology with detailed principles and concepts
+- Added Process section with Initial and Intermediate phases
+- Enhanced privacy versus anonymity explanation
+- Added detailed establishment requirements and preparation guidelines
+
+### Changed
+- Updated and synchronized English methodology with Spanish version
+- Improved documentation structure and clarity
+- Enhanced explanation of contact methods and communication channels
+
+### Fixed
+- Fixed markdown formatting and structure in methodology documents
+- Corrected inconsistencies between English and Spanish versions
+- Standardized documentation links and references
+
+---
+
 ## [0.2.2] - 2025-08-20
 
 ### Changed

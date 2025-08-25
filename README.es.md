@@ -135,7 +135,7 @@ Tu privacidad es nuestra prioridad. Aunque actualmente no contamos con una ubica
 
 ## 📜 Licencia y Principios
 
-Este proyecto está bajo la licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Al usar, modificar o distribuir la metodología SAPITS, aceptas los términos descritos en el archivo [LICENSE.txt](LICENSE.txt).
+Este proyecto está bajo la licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Al usar, modificar o distribuir la metodología SAPITS, aceptas los términos descritos en el archivo [LICENSE](LICENSE).
 
 ### Principios SAPITS (Recomendados)
 
@@ -149,7 +149,7 @@ Aunque no son legalmente obligatorios, recomendamos encarecidamente considerar e
 
 Estos principios, aunque no son legalmente vinculantes bajo la licencia CC BY-SA 4.0, representan nuestra visión para las prácticas tecnológicas éticas. Creemos que seguirlos ayudará a mantener la integridad y el propósito de la metodología SAPITS.
 
-Para los términos completos de la licencia, consulta el archivo [LICENSE.txt](LICENSE.txt).
+Para los términos completos de la licencia, consulta el archivo [LICENSE](LICENSE).
 
 ---
 
